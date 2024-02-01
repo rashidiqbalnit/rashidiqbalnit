@@ -7,17 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidiqbalnit" alt="rashidiqbalnit" /></a> </p>
 
-- 🔭 I’m currently working on [Healthcare Website](https://rashidiqbalnit.github.io/HealthCare-Website/)
+<h2><img src"https://cdn3d.iconscout.com/3d/premium/thumb/hacker-4730995-3931429.pngAbout"> Me</h2>
+- 🔭 I’m currently working on Portfolio Website
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on [TextManipulator](https://rashidiqbalnit.github.io/TextManipulator/)
-
-- 🤝 I’m looking for help with [Weather App.](https://rashidiqbalnit.github.io/WeatherApp/)
-
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rashidiqbalnit@gmail.com**
+- 📫 Reach out to me **rashidiqbalnit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
