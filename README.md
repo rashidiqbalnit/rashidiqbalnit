@@ -7,8 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidiqbalnit" alt="rashidiqbalnit" /></a> </p>
 
-<h2><img src"https://cdn3d.iconscout.com/3d/premium/thumb/hacker-4730995-3931429.png">About Me</h2>
-- 🔭 I’m currently working on Portfolio Website
+<h2>About Me</h2>
+
+- 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **MongoDB**
 
@@ -16,13 +17,11 @@
 
 - 📫 Reach out to me **rashidiqbalnit@gmail.com**
 
+- ⚡ Fun Fact My first line of code was **Summation of two number**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rashid-iqbal-99ab54201?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b0%2bkrjkoosnundez9h2ep7w%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashid-iqbal-99ab54201?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b0%2bkrjkoosnundez9h2ep7w%3d%3d" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/rashidiqbalbih" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rashidiqbalbih" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rashidiqbalnit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rashidiqbalnit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rashidiqbalnit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rashidiqbalnit/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rk6612262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rk6612262" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
