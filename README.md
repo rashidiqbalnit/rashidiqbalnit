@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Followers&color=0e75b6&style=flat" alt="rashidiqbalnit" /> <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Stars%20views&color=0e75b6&style=flat" alt="rashidiqbalnit" /> <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Profile%20views&color=0e75b6&style=flat" alt="rashidiqbalnit" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Followers&color=0e75b6&style=flat" alt="rashidiqbalnit" />   <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Stars&color=0e75b6&style=flat" alt="rashidiqbalnit" />   <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Profile%20views&color=0e75b6&style=flat" alt="rashidiqbalnit" /></p>
 
 
 <h2>About Me</h2>
