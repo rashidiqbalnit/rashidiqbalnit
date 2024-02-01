@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img src="https://camo.githubusercontent.com/a4aba565cfbf7bddca52637fdcfc80a644db2c0638e3addbaf70dc3375e08185/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966">
+<img src="https://camo.githubusercontent.com/a4aba565cfbf7bddca52637fdcfc80a644db2c0638e3addbaf70dc3375e08185/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="50px" height="50px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Followers&color=0e75b6&style=flat" alt="rashidiqbalnit" />   <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Stars&color=0e75b6&style=flat" alt="rashidiqbalnit" />   <img src="https://komarev.com/ghpvc/?username=rashidiqbalnit&label=Profile%20views&color=0e75b6&style=flat" alt="rashidiqbalnit" /></p>
 
