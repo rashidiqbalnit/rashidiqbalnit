@@ -1,4 +1,4 @@
-<img src="">
+<img src="![image](https://github.com/rashidiqbalnit/rashidiqbalnit/assets/125125257/979f54ce-012f-4121-be9f-a33ed59ddaa8)">
 <h1 align="center">Hi 👋, I'm Rashid Iqbal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
