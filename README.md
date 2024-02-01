@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidiqbalnit" alt="rashidiqbalnit" /></a> </p>
 
-<h2><img src"https://cdn3d.iconscout.com/3d/premium/thumb/hacker-4730995-3931429.pngAbout"> Me</h2>
+<h2><img src"https://cdn3d.iconscout.com/3d/premium/thumb/hacker-4730995-3931429.png">About Me</h2>
 - 🔭 I’m currently working on Portfolio Website
 
 - 🌱 I’m currently learning **MongoDB**
